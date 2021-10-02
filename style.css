@@ -4,6 +4,19 @@ body {
   text-align: center;
   color: #40514E;
 }
+.header{
+  height: 50px;
+  width: 100%;
+  display: flex;
+  /* align-items: flex-end; */
+  padding-left: 800px;
+}
+.box{
+  align-items:center;
+  display: flex;
+  padding: 20px;
+  
+}
 .top-container {
   background-color: #caf7e3;
   position: relative;
