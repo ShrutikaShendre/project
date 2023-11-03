@@ -4,8 +4,8 @@ body{
     background-color: #B8DFD8;
 }
 .box1{
-    height: 554px;
-    width: 800px;
+    height: 500px;
+    width: 798px;
     background-color: white;
     border-radius: 3px;
     margin:100px auto;
@@ -13,8 +13,8 @@ body{
 }
 .box11{
     display: inline-block;
-    height: 553px;
-    width: 400px;
+    height: 334px;
+    width: 325px;
     background-color: white;
     border-radius: 3px;
     border-right:  dashed;
