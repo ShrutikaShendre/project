@@ -9,7 +9,7 @@ body {
   width: 100%;
   display: flex;
   /* align-items: flex-end; */
-  padding-left: 800px;
+  flex-direction: row-reverse;
 }
 .box{
   align-items:center;
